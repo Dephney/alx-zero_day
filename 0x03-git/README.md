@@ -16,10 +16,10 @@
 - How to work as collaborators on a project
 - Which files should and which files should not appear in your repo
 
-# TASKS
-- BASH
- - [alx](/alx) : branching in git
- - [school](/school) : updating file contents, writing commit messages and pushing new branches
-- C
- - [c_is_fun.c](/c_is_fun.c) : creat a c file
+## TASKS
+- **BASH**
+    *[alx](/alx) : branching in git
+    *[school](/school) : updating file contents using vi editor, writing commit messages and pushing new branches
+- **C**
+    *[c_is_fun.c](./c_is_fun.c) : create a c file
 - [up_to_date](/up_to_date) : write a git command to get  all changes of the main branch locally
