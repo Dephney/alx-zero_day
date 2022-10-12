@@ -18,8 +18,8 @@
 
 ## TASKS
 - **BASH**
-    * [alx](0x03-git/bash/alx) : branching in git
+    * [alx](/0x03-git/bash/alx) : branching in git
     * [school](/0x03-git/bash/school) : updating file contents using vi editor, writing commit messages and pushing new branches
 - **C**
-    * [c_is_fun.c](/c/c_is_fun.c) : create a c file
+    * [c_is_fun.c](/0x03-git/c/c_is_fun.c) : create a c file
 - [up_to_date](/0x03-git/up_to_date) : write a git command to get  all changes of the main branch locally
